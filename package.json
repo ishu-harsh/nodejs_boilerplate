@@ -1,0 +1,19 @@
+{
+  "name": "nodejsboiplerplate",
+  "version": "1.0.0",
+  "description": "Node-js Boiler Plate for Starter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "boiler-plate"
+  ],
+  "author": "Harsh Sharma",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.28"
+  }
+}
